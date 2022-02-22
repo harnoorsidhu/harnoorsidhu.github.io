@@ -1,3 +1,3 @@
-# meharban-singh.github.io
+# harnoorsidhu.github.io
 
-Portfolio Website [here](http://meharbansingh.me)
+Portfolio Website [here](http://harnoorsidhu.me)
